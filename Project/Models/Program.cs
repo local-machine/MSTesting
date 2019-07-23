@@ -2,5 +2,5 @@ using Sytem;
 
 class Program
 {
-
+    
 }
