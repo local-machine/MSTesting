@@ -1,5 +1,5 @@
 # Project
-### By Rochelle Roberts
+### By Jessica Munoz
 -----
 
 ## Description
